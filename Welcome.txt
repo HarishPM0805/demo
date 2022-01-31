@@ -4,7 +4,13 @@ Welcome to My repository
 
 Ready start 
 
+learn
+git
 
 thank you
 
+
+done my changes
+
 final
+
